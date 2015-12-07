@@ -1,1 +1,1 @@
-# apache2 on debian:latest with php5 libs
+# apache2 on debian:jessie with php5 libs
